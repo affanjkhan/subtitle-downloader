@@ -1,5 +1,5 @@
 ## Subtitle Downloader
-cSubtitle Downloader is a Java Command Line tool to download subtitles for Movies in any language especially for Movies downloaded from Yify/YTS.
+Subtitle Downloader is a Java Command Line tool to download subtitles for Movies in any language especially for Movies downloaded from Yify/YTS.
 
 Download link: [subtitle-downloader](https://github.com/syedalisait/subtitle-downloader/releases/tag/v1.0)
 
